@@ -1,5 +1,5 @@
 # Sudoku Solver
-Python files and .exe for an app that solves sudoku puzzles up to 36x36.
+Python files for an app that solves sudoku puzzles up to 36x36.
 
 ## Sudoku_Solver.py
 This Python script is designed to solve Sudoku puzzles. The way the program solves the puzzles is meant to mimick the approach I use for Sudoku. The user types out the puzzle as a 2D array and the program returns the solved puzzle as a 2D array. As it is right now, it shold be able to solve any size of Sudoku puzzle. I have not tested it extensively so there could be bugs.
